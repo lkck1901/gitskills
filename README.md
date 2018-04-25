@@ -1,6 +1,6 @@
 # gitSkills
 
-#my new github is aowsome
+#my new github is  a aowsome
 
 Creating a new branch is quick
 
