@@ -2,7 +2,7 @@
 
 #my new github is  a aowsome
 
-Creating a new branch is quick
+Creating a  branch is quick //fix a bug "new"
 
 my boss is  big huge dumyass
 
